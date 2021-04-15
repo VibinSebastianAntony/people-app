@@ -26,7 +26,7 @@ class App extends Component {
         return (
 
             <div className='app'>
-                <h1>Welcome People</h1>
+                <h1>Welcome</h1>
                 <Search
                     placeholder='Search'
                     handleChange={e => {
